@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88" started-at="2022-04-29T15:45:45 IST" finished-at="2022-04-29T15:45:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88" started-at="2022-04-29T15:45:45 IST" finished-at="2022-04-29T15:45:46 IST">
+      <class name="TestNGprogram.Anatationexmple3">
+        <test-method status="PASS" signature="openbrowse()[pri:0, instance:TestNGprogram.Anatationexmple3@1877ab81]" name="openbrowse" is-config="true" duration-ms="16" started-at="2022-04-29T15:45:45 IST" finished-at="2022-04-29T15:45:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowse -->
+        <test-method status="PASS" signature="creattast()[pri:0, instance:TestNGprogram.Anatationexmple3@1877ab81]" name="creattast" duration-ms="15" started-at="2022-04-29T15:45:45 IST" finished-at="2022-04-29T15:45:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creattast -->
+        <test-method status="PASS" signature="enterappurl()[pri:0, instance:TestNGprogram.Anatationexmple3@1877ab81]" name="enterappurl" is-config="true" duration-ms="0" started-at="2022-04-29T15:45:45 IST" finished-at="2022-04-29T15:45:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterappurl -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:TestNGprogram.Anatationexmple3@1877ab81]" name="logout" is-config="true" duration-ms="0" started-at="2022-04-29T15:45:45 IST" finished-at="2022-04-29T15:45:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:TestNGprogram.Anatationexmple3@1877ab81]" name="logout" is-config="true" duration-ms="0" started-at="2022-04-29T15:45:46 IST" finished-at="2022-04-29T15:45:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:TestNGprogram.Anatationexmple3@1877ab81]" name="closebrowser" is-config="true" duration-ms="0" started-at="2022-04-29T15:45:46 IST" finished-at="2022-04-29T15:45:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="enterappurl()[pri:0, instance:TestNGprogram.Anatationexmple3@1877ab81]" name="enterappurl" is-config="true" duration-ms="0" started-at="2022-04-29T15:45:46 IST" finished-at="2022-04-29T15:45:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterappurl -->
+        <test-method status="PASS" signature="varifiloginpage()[pri:1, instance:TestNGprogram.Anatationexmple3@1877ab81]" name="varifiloginpage" duration-ms="0" started-at="2022-04-29T15:45:46 IST" finished-at="2022-04-29T15:45:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifiloginpage -->
+      </class> <!-- TestNGprogram.Anatationexmple3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
